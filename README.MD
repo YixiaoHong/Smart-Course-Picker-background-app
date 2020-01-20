@@ -1,17 +1,4 @@
-Copyright (c) 2019 Fred Pan, Felix Hong, and Chris Xu
-
-Developed by:
-
-    Liren (Fred) Pan,
-    
-    Yixiao (Felix) Hong,
-    
-    Hongzheng  (Chris) Xu.
-    
-Developed for Course Timetable Scheduler Project (https://github.com/fredpan/course-timetable-scheduler) @ University of Toronto
-    
-=== === === === === === === === ===
-
+## Instructions
 To run on the AWS Lambda Function, Open the AWS_LAMBDA_READY folder and follow the instructions below:
 1) Upload the main program AWS_LAMBDA_READY_GRAPHER to the Lambda as the Lambda Function.
 2) Use the AWSLambda-Python37-SciPy1x as the first layer.
@@ -20,3 +7,8 @@ To run on the AWS Lambda Function, Open the AWS_LAMBDA_READY folder and follow t
 5) (Optional) Configure the EventBridge for fix interval schedule
    i)  Choose the fix schedule interval
    ii) Choose the Lambda function
+
+Developed by:
+    Liren (Fred) Pan,
+    Yixiao (Felix) Hong,
+    Hongzheng  (Chris) Xu.
